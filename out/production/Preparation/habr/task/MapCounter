@@ -1,0 +1,2 @@
+Write a method that takes as input an array of elements of type K (Generic) and returns Map<K, Integer>,
+where K is the value from the array, and Integer is the number of occurrences in the array.

@@ -1,0 +1,3 @@
+Given an iterator. The next() method returns either a String or an iterator of the same structure
+(that is, which again returns either a String or the same iterator).
+Write another iterator that will only return the String.
