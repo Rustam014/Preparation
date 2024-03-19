@@ -1,0 +1,18 @@
+Time limit 1 second
+Memory limit 64Mb
+Input: standard input
+Output: standard output
+
+The beauty of a line is the maximum number of identical letters in a row. (the beauty of the string abcaabdddettq is 3)
+
+Make the string given to you as beautiful as possible if you can do no more than k character replacement operations.
+
+Input format
+
+The first line contains one integer k (0 ≤ k ≤ 109)
+
+The second line contains a non-empty string S (|S| ≤ 2 ⋅ 105). The S line consists only of small Latin letters.
+
+Output Format
+
+Print one number - the maximum possible beauty of the line that can be obtained.
